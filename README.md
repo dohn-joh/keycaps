@@ -1,4 +1,5 @@
 This repo contains all of the keycaps that I've designed.
+I've included parameterized fusion360 files that anyone is free to edit.
 
 # Lever Keycaps
 Demo video: https://vimeo.com/897496865
@@ -32,5 +33,8 @@ Depending on your printer's tolerances, you may need to adjust the size of the h
 Personally, I leverage the walls of my keyboard case to secure the pin in place. A dab of superglue works as well.
 
 # Cylindrical Low Profile
-1U keycaps with concavity along the y axis. Designed specifically for thumb usage. Inspired by MCC keycaps.
+1U keycaps with concavity along the y axis. Designed specifically for thumb usage. Inspired by MCC keycap profile.
 Currently only has mx compatibility, but the source file can easily be edited to support choc or other switches.
+
+# Cylindrical Low Profile Choc v2
+Thumb: a cross between CS T1 and MCC. Slight concavity for homing thumbs with an asymmetrical shape optimized for comfortable horizontal thumb combos.
