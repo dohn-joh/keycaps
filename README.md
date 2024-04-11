@@ -37,5 +37,5 @@ Personally, I leverage the walls of my keyboard case to secure the pin in place.
 Currently only has mx compatibility, but the source file can easily be edited to support choc or other switches.
 
 # Cylindrical Low Profile Choc v2
-Thumb: a cross between CS T1 and MCC. Slight concavity for homing thumbs with an asymmetrical shape optimized for comfortable horizontal thumb combos.
+Thumb: a cross between CS T1 and MCC. Slight concavity for homing thumbs with an asymmetrical shape designed for horizontal thumb combo comfort.
 Currently choc v2/lofree/mx compatible.
