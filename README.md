@@ -1,4 +1,4 @@
-This repo contains all of the keycaps that I've designed as well as forks of others' designs.
+This repo contains all of the keycaps that I've designed.
 I've included parameterized fusion360 files that anyone is free to edit.
 
 # Lever Keycaps
