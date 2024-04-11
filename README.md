@@ -21,9 +21,8 @@ Flush cutters: to trim the excess hinge
 Optional: tweezer pliers for grabbing and inserting the hinge
 
 ## Slicer settings (PLA)
-Placeholder. I will upload the 3mf file containing the slicer settings. The supports need to be dialed in correctly or the overhangs will sag.
-1% infill
-Supports
+3mf file contains the slicer settings I used in orcaslicer.
+The supports are important or the overhangs will sag.
 
 ## Assembly
 Simply print, remove mouse ears, line up the holes of the base and the paddle, slot the hinge through the holes, and flush cut the excess hinge. Push the assembly onto switch. It should snap into place.
