@@ -38,3 +38,4 @@ Currently only has mx compatibility, but the source file can easily be edited to
 
 # Cylindrical Low Profile Choc v2
 Thumb: a cross between CS T1 and MCC. Slight concavity for homing thumbs with an asymmetrical shape optimized for comfortable horizontal thumb combos.
+Currently choc v2/lofree/mx compatible.
